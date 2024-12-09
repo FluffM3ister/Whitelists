@@ -1,0 +1,13 @@
+samsung.com
+samsung.net
+samsungcloud.com
+samsungcloud.net
+account.samsung.com
+samsungconnect.com
+samsungupdates.com
+samsunghealth.com
+samsungapps.com
+samsungpay.com
+samsungdive.com
+samsungknox.com
+samsungoneui.com
