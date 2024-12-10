@@ -1,0 +1,11 @@
+# ============================================================
+# Whitelist for Essential YouTube Services
+# ------------------------------------------------------------
+# Domains required for YouTube streaming and video uploads.
+# ============================================================
+
+*.youtube.com
+*.googlevideo.com
+*.ytimg.com
+*.gstatic.com
+*.google.com
