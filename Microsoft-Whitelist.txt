@@ -1,0 +1,110 @@
+# ============================================================
+# Whitelist for Crucial Microsoft Services
+# ------------------------------------------------------------
+# This file contains a list of domains that should be 
+# whitelisted to ensure proper functionality of essential 
+# Microsoft services such as Office 365, Windows Updates, 
+# Microsoft Teams, Azure, and more.
+# ------------------------------------------------------------
+# Format: Each line contains a single domain. Comments 
+# are preceded by '#' and can be used to provide additional 
+# context for each section.
+# ============================================================
+
+# ------------------------------------------------------------
+# Section 1: Office 365 Services
+# - Required for Office apps and email via Microsoft 365.
+# ------------------------------------------------------------
+*.office.com
+*.microsoftonline.com
+*.outlook.com
+*.sharepoint.com
+*.office365.com
+*.onenote.com
+*.onmicrosoft.com
+*.graph.microsoft.com
+*.protection.outlook.com
+autodiscover.outlook.com
+autodiscover-s.outlook.com
+
+# ------------------------------------------------------------
+# Section 2: Microsoft Teams
+# - Domains for Microsoft Teams communication and collaboration.
+# ------------------------------------------------------------
+*.teams.microsoft.com
+*.skype.com
+*.lync.com
+*.sfbassets.com
+*.tenor.com  # For GIFs in Teams chat
+*.giphy.com  # For additional GIF support
+
+# ------------------------------------------------------------
+# Section 3: Windows Updates
+# - Ensure uninterrupted access to Windows Update services.
+# ------------------------------------------------------------
+*.update.microsoft.com
+*.windowsupdate.com
+*.windows.com
+*.delivery.mp.microsoft.com
+*.microsoft.com
+*.msftconnecttest.com
+*.msftncsi.com
+
+# ------------------------------------------------------------
+# Section 4: Azure Services
+# - Required for Azure cloud infrastructure and services.
+# ------------------------------------------------------------
+*.azure.com
+*.azureedge.net
+*.azuredatalakestore.net
+*.blob.core.windows.net
+*.microsoftazuread-sso.com
+*.microsoftaik.azure.net
+
+# ------------------------------------------------------------
+# Section 5: Licensing and Activation
+# - Domains required for activating Microsoft products.
+# ------------------------------------------------------------
+*.msedge.net
+*.windows.net
+*.office.net
+activation.sls.microsoft.com
+kms.core.windows.net
+
+# ------------------------------------------------------------
+# Section 6: Core Exchange Services
+# - Email services and protocols for Exchange.
+# ------------------------------------------------------------
+outlook.office365.com
+smtp.office365.com
+imap.office365.com
+pop.office365.com
+
+# ------------------------------------------------------------
+# Section 7: Content Delivery Networks (CDNs)
+# - CDNs for Microsoft services and updates.
+# ------------------------------------------------------------
+akadns.net
+cdn.office.net
+officecdn.microsoft.com
+msocdn.com
+
+# ------------------------------------------------------------
+# Section 8: Miscellaneous Microsoft Services
+# - Includes domains for telemetry, diagnostics, and more.
+# ------------------------------------------------------------
+*.events.data.microsoft.com
+*.telemetry.microsoft.com
+*.login.live.com
+*.live.com
+*.msn.com
+*.bing.com
+browser.pipe.aria.microsoft.com
+dc.services.visualstudio.com
+
+# ============================================================
+# End of Whitelist
+# Ensure that wildcard (*) entries are supported in your 
+# firewall or network configuration to avoid manual 
+# enumeration of subdomains.
+# ============================================================
