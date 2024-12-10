@@ -1,0 +1,35 @@
+
+# Email and Communication
+outlook.office365.com
+gmail.com
+googleapis.com
+teams.microsoft.com
+zoom.us
+
+# ISP-Related Services
+splynx.com
+mikrotik.com
+bicom.com
+portaone.com
+sessiontelecoms.com
+networkplatforms.co.za
+
+# DNS Services
+1.1.1.1
+8.8.8.8
+
+# Monitoring Tools
+thedude.com
+# Add specific API endpoints for Splynx as needed
+
+# Knowledge Resources
+onenote.com
+wiki.mikrotik.com
+github.com
+
+# Other Tools and Personal Services
+zoho.com
+asana.com
+telegram.org
+spotify.com
+youtube.com
