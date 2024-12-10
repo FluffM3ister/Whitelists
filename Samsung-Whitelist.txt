@@ -1,0 +1,26 @@
+# ============================================================
+# Whitelist for Essential Samsung Services
+# ------------------------------------------------------------
+# Domains required for Samsung devices and services, including
+# updates, cloud sync, and SmartThings.
+# ============================================================
+
+# Samsung Software Updates
+*.samsung.com
+*.samsungcloud.com
+*.samsungiotcloud.com
+*.smartthings.com
+*.tizen.org
+
+# Galaxy Store and Samsung Apps
+*.galaxyapps.com
+*.samsungpay.com
+
+# Samsung Diagnostics and Telemetry
+*.log.samsungacr.com
+*.dms.samsungdm.com
+*.gms.samsungdm.com
+
+# Samsung Account Services
+*.account.samsung.com
+*.sync.samsungcloud.com
