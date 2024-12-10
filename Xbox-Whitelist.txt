@@ -1,0 +1,12 @@
+# ============================================================
+# Whitelist for Essential Xbox Services
+# ------------------------------------------------------------
+# Domains required for Xbox gaming, updates, and multiplayer.
+# ============================================================
+
+*.xbox.com
+*.xboxlive.com
+*.microsoft.com
+*.msftconnecttest.com
+*.xboxservices.com
+*.xboxlive.net
