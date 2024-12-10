@@ -1,0 +1,28 @@
+# ============================================================
+# Whitelist for Essential Apple Services
+# ------------------------------------------------------------
+# Domains required for Apple devices and services, including
+# iCloud, App Store, and software updates.
+# ============================================================
+
+# iCloud Services
+*.icloud.com
+*.appleid.apple.com
+*.icloud-content.com
+*.findmyiphone.apple.com
+
+# App Store and Software Updates
+*.itunes.apple.com
+*.mzstatic.com
+*.apple.com
+*.akamaized.net
+
+# Apple Diagnostics and Activation
+*.gs.apple.com
+*.push.apple.com
+*.icloud.com
+*.cdn-apple.com
+
+# Apple Maps and Siri
+*.maps.apple.com
+*.siri.apple.com
