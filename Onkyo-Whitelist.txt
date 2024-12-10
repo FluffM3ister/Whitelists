@@ -1,0 +1,20 @@
+# ============================================================
+# Whitelist for Essential Onkyo Services
+# ------------------------------------------------------------
+# Domains required for Onkyo firmware updates, mobile app
+# integration, and streaming functionality.
+# ============================================================
+
+# Onkyo Firmware and Updates
+*.onkyo.com
+*.pioneer.jp
+*.integrahometheater.com
+
+# Streaming Service Integration
+*.vtuner.com
+*.spotify.com
+*.pandora.com
+
+# Onkyo Control Apps
+*.onkyomobile.com
+*.onkyoconnect.com
