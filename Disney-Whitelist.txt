@@ -1,0 +1,11 @@
+# ============================================================
+# Whitelist for Essential Disney+ Services
+# ------------------------------------------------------------
+# Domains required for Disney+ streaming and account access.
+# ============================================================
+
+*.disneyplus.com
+*.bamgrid.com
+*.disney.com
+*.cdn.registerdisney.go.com
+*.akamaized.net
