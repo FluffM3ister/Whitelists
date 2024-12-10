@@ -1,0 +1,10 @@
+# ============================================================
+# Whitelist for Essential Amazon Prime Video Services
+# ------------------------------------------------------------
+# Domains required for Prime Video streaming and account access.
+# ============================================================
+
+*.primevideo.com
+*.amazon.com
+*.aiv-cdn.net
+*.ssl-images-amazon.com
