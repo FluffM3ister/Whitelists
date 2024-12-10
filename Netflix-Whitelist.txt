@@ -1,0 +1,11 @@
+# ============================================================
+# Whitelist for Essential Netflix Services
+# ------------------------------------------------------------
+# Domains required for Netflix streaming and account access.
+# ============================================================
+
+*.netflix.com
+*.nflxext.com
+*.nflximg.com
+*.nflxso.net
+*.nflxvideo.net
